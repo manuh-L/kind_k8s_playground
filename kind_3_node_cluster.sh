@@ -1,5 +1,9 @@
 #!/bin/bash
 
+echo "##################################################################################
+# Starting installation
+##################################################################################"
+
 cluster_name = "star-labs"
 #Install docker
 curl -fsSL https://get.docker.com/ | sh
